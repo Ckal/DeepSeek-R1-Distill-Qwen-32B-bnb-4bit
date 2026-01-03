@@ -3,4 +3,4 @@ accelerate
 transformers>=4.35.0
 SentencePiece
 bitsandbytes
-gradio>=4.0.0
+gradio>=4.44.0
