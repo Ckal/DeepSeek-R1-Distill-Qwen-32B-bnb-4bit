@@ -1,0 +1,6 @@
+huggingface_hub
+accelerate
+transformers>=4.35.0
+SentencePiece
+bitsandbytes
+gradio>=4.0.0
